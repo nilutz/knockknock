@@ -25,8 +25,7 @@ setup(
         'matrix_client',
         'python-telegram-bot',
         'requests',
-        'twilio',
-        'win10toast==0.9'
+        'twilio'
     ],
     classifiers=[
         'Intended Audience :: Science/Research',
