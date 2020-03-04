@@ -5,6 +5,6 @@ from knockknock.slack_sender import slack_sender
 from knockknock.sms_sender import sms_sender
 from knockknock.telegram_sender import telegram_sender
 from knockknock.teams_sender import teams_sender
-from knockknock.desktop_sender import desktop_sender
+#from knockknock.desktop_sender import desktop_sender
 from knockknock.matrix_sender import matrix_sender
 from knockknock.dingtalk_sender import dingtalk_sender
